@@ -42,7 +42,7 @@
 
 ### 方式一：下载 exe（推荐）
 
-1. 从 [Releases](releases) 下载最新版 `VideoDownloadAssistant.exe`
+1. 从 Releases 下载
 2. 双击运行，无需安装 Python
 
 ### 方式二：从源码运行
