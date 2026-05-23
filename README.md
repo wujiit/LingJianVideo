@@ -1,6 +1,6 @@
 # 📥 视频下载助手 (Video Download Assistant)
 
-基于 yt-dlp 和 FFmpeg 的 Windows 视频下载客户端，提供现代化图形界面，面向普通用户。
+基于 yt-dlp 和 FFmpeg 的 Windows 视频下载客户端，面向普通用户。
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-green.svg)
@@ -32,11 +32,6 @@
 - 播放列表自动创建文件夹
 - 错误信息自动翻译为中文
 
-### 🎨 现代化界面
-- 深色主题，护眼设计
-- 简洁直观的操作流程
-- 高级/简单模式切换
-- 详细的状态日志
 
 ## 📦 安装使用
 
