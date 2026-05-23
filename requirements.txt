@@ -1,0 +1,13 @@
+# Video Download Assistant - Dependencies
+
+# GUI Framework
+PySide6>=6.6.0
+
+# Download Engine
+yt-dlp>=2026.3.17
+
+# Utilities
+requests>=2.31.0
+
+# For packaging
+pyinstaller>=6.0.0
